@@ -11,7 +11,7 @@ const ContactPageDetails = () => {
         <div className=" col-8 justify-content-center">
           <dl className="row">
             <dt className="col-sm-3">Call Us</dt>
-            <dd className="col-sm-9">+92 321 5113569</dd>
+            <dd className="col-sm-9">+92 330 555 1116</dd>
             <dt className="col-sm-3">Whatsapp</dt>
             <dd className="col-sm-9">
               <a
